@@ -1,6 +1,18 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+This webapp you can able to create a space and other people can able to search the space and add into it and able to chat with each other.
+-- Using React and React components
+-- Firebase authentication
+-- Firebase Database 
+
+Upcoming features -
+--update user profile
+--send files, photos in realtime
+
+
+
+
 
 Currently, two official plugins are available:
 
